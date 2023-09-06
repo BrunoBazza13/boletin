@@ -1,4 +1,4 @@
-.Titulo1, .Titulo2{
+.Titulo1, .Titulo2, .Titulo3, .Tabela{
     display: flex;
     justify-content: center;
 
@@ -19,3 +19,11 @@
 
 
 }
+
+.th{
+    background-color: #007D8B;
+
+}
+
+
+
