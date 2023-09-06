@@ -1,0 +1,21 @@
+.Titulo1, .Titulo2{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.Titulo1{
+    background-color: #F4C70A;
+    color: #15583E;
+    border-radius: 10px;
+   
+   
+}
+
+.Titulo2{
+    color: #025A5E;
+    background-color: white;
+
+
+}
