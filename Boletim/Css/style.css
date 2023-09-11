@@ -1,0 +1,51 @@
+.Titulo1, .Titulo2, .Titulo3, .Tabela, .tabela2{
+    justify-content: space-around;
+    text-align: center;
+    justify-content: flex
+    
+    
+}
+
+.Titulo1{
+    background-color: #F4C70A;
+    color: #15583E;
+    border-radius: 10px;
+}
+
+.Titulo2{
+    color: #025A5E;
+    background-color: white;
+}
+
+.Titulo3{
+    color: #FFFFFF;
+    background-color: #025A5E;
+}
+
+tr td:nth-child(odd) {
+    background-color: #007E8C; /* Cor para as células da coluna dos nomes */
+    color: #FFFFFF; /* Cor do texto nas células da coluna dos nomes */
+    border-radius: 10px 0 0 10px
+    
+}
+  
+  tr td:nth-child(even) {
+    background-color: #01585F; /* Cor para as células da coluna dos números */
+    color: #FFFFFF; /* Cor do texto nas células da coluna dos números */
+    border-radius: 0 10px 10px 0;
+    
+    
+}
+
+.tabela2{
+
+}
+
+.conteudo1{
+    background-color: #FFFFFF;
+
+}
+
+
+
+
